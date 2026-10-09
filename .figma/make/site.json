@@ -1,0 +1,10 @@
+{
+  "description": "Delivers a premium, interactive microsite for strategic branding presentations with clear navigation and sophisticated editorial design tailored for client engagement.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
